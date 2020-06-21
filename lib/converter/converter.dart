@@ -32,8 +32,8 @@ class _ConverterState extends State<Converter> {
         ),
         floatingActionButton: Container(
           child: Text(
-            ": R S Agheda",
-            style: TextStyle(fontSize: 12,fontFamily: 'Poppins'),
+            "# Ravi Agheda",
+            style: TextStyle(fontSize: 14,fontFamily: 'Poppins'),
           ),
         ),
       ),
